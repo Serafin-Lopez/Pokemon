@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sees_/AndroidStudioProjects/Pokemon/app/src/main/res/drawable/style_card_shape.xml" value="0.1" />
+        <entry key="..\:/Users/sees_/AndroidStudioProjects/Pokemon/app/src/main/res/layout/activity_main.xml" value="0.1671195652173913" />
+        <entry key="..\:/Users/sees_/AndroidStudioProjects/Pokemon/app/src/main/res/layout/fragment_detail_pokemon.xml" value="0.1671195652173913" />
+        <entry key="..\:/Users/sees_/AndroidStudioProjects/Pokemon/app/src/main/res/layout/fragment_grid.xml" value="0.1671195652173913" />
+        <entry key="..\:/Users/sees_/AndroidStudioProjects/Pokemon/app/src/main/res/layout/fragment_home.xml" value="0.1671195652173913" />
+        <entry key="..\:/Users/sees_/AndroidStudioProjects/Pokemon/app/src/main/res/layout/item_pokemon_list.xml" value="0.1671195652173913" />
+        <entry key="..\:/Users/sees_/AndroidStudioProjects/Pokemon/app/src/main/res/layout/toolbar_detail.xml" value="0.264" />
+        <entry key="..\:/Users/sees_/AndroidStudioProjects/Pokemon/app/src/main/res/layout/toolbar_notifications.xml" value="0.1671195652173913" />
+        <entry key="..\:/Users/sees_/AndroidStudioProjects/Pokemon/app/src/main/res/layout/toolbar_pokemo.xml" value="0.15081521739130435" />
+        <entry key="..\:/Users/sees_/AndroidStudioProjects/Pokemon/app/src/main/res/menu/tabs_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
